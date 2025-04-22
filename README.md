@@ -4,7 +4,7 @@ Android lead engineer – highly experienced in Android development, likely with
 Product Thinker – I am not just a coder; think about the end-user, business goals, and how features fit into the product vision.
 Specializing in Jetpack Compose, Kotlin, and building performant, scalable mobile apps and flutter
 
-### ✨ Polished & Professional 
+✨ Polished & Professional 
 I’m passionate about working on clean, well-structured codebases that enable seamless user experiences and fast, reliable delivery. I thrive on solving complex technical challenges in practical, efficient ways—and take pride in supporting others to do the same.
 
 💬 Friendly & Personal
